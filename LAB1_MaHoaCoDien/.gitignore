@@ -1,9 +1,3 @@
-# Maven build
-target/
-
-# Java compiled files
-*.class
-
 # NetBeans private settings
 nbproject/private/
 
