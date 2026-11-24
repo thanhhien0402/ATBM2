@@ -1,0 +1,22 @@
+# Maven build
+target/
+
+# Java compiled files
+*.class
+
+# NetBeans private settings
+nbproject/private/
+
+# Log files
+*.log
+
+# Windows temporary files
+Thumbs.db
+Desktop.ini
+
+# Microsoft Word temporary files
+~$*.docx
+~$*.doc
+
+# Environment variables
+.env
